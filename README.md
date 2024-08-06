@@ -24,7 +24,7 @@ plt.show()
 
 ### Results 
 
-![Chart for  top skills for top 3 data jobs](Project\Images\skill_demand_top3_data_roles.png)
+![Chart for  top skills for top 3 data jobs]
 ![image](https://github.com/user-attachments/assets/fd892a7c-0ca2-4894-b492-9e79e7d8c8cb)
 
 
